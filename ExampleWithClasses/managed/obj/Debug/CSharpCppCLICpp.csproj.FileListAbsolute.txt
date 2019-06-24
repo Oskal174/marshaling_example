@@ -1,0 +1,10 @@
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\Debug\CSharpCppCLICpp.exe.config
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\Debug\CSharpCppCLICpp.exe
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\Debug\CSharpCppCLICpp.pdb
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\CSharpCppCLICpp\obj\Debug\CSharpCppCLICpp.csprojAssemblyReference.cache
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\CSharpCppCLICpp\obj\Debug\CSharpCppCLICpp.Form1.resources
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\CSharpCppCLICpp\obj\Debug\CSharpCppCLICpp.Properties.Resources.resources
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\CSharpCppCLICpp\obj\Debug\CSharpCppCLICpp.csproj.GenerateResource.cache
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\CSharpCppCLICpp\obj\Debug\CSharpCppCLICpp.csproj.CoreCompileInputs.cache
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\CSharpCppCLICpp\obj\Debug\CSharpCppCLICpp.exe
+D:\work\development\solutions\CSharpPlusNativeExample\ExampleWithClasses\CSharpCppNative\CSharpCppCLICpp\obj\Debug\CSharpCppCLICpp.pdb

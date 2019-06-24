@@ -1,0 +1,14 @@
+ExampleWithClasses/.vs/*
+ExampleWithClasses/Debug/*
+ExampleWithClasses/Release/*
+ExampleWithClasses/backend/Debug/*
+ExampleWithClasses/backend/Release/*
+ExampleWithClasses/CSharpCppCLICpp/obj/*
+
+ExampleWithFunctions/.vs/*
+ExampleWithFunctions/Debug/*
+ExampleWithFunctions/Release/*
+ExampleWithFunctions/Native/Debug/*
+ExampleWithFunctions/Native/Release/*
+ExampleWithFunctions/CSharpPlusNativeExample/bin/*
+ExampleWithFunctions/CSharpPlusNativeExample/obj/*

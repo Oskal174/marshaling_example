@@ -1,0 +1,10 @@
+D:\work\github\marshaling_example\ExampleWithClasses\Debug\CSharpCppCLICpp.exe.config
+D:\work\github\marshaling_example\ExampleWithClasses\Debug\CSharpCppCLICpp.exe
+D:\work\github\marshaling_example\ExampleWithClasses\Debug\CSharpCppCLICpp.pdb
+D:\work\github\marshaling_example\ExampleWithClasses\managed\obj\Debug\managed.csprojAssemblyReference.cache
+D:\work\github\marshaling_example\ExampleWithClasses\managed\obj\Debug\CSharpCppCLICpp.MainForm.resources
+D:\work\github\marshaling_example\ExampleWithClasses\managed\obj\Debug\CSharpCppCLICpp.Properties.Resources.resources
+D:\work\github\marshaling_example\ExampleWithClasses\managed\obj\Debug\managed.csproj.GenerateResource.cache
+D:\work\github\marshaling_example\ExampleWithClasses\managed\obj\Debug\managed.csproj.CoreCompileInputs.cache
+D:\work\github\marshaling_example\ExampleWithClasses\managed\obj\Debug\CSharpCppCLICpp.exe
+D:\work\github\marshaling_example\ExampleWithClasses\managed\obj\Debug\CSharpCppCLICpp.pdb
