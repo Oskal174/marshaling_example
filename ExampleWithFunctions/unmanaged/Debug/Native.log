@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Native.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  native.cpp
-     Создается библиотека D:\work\github\marshaling_example\ExampleWithFunctions\Debug\unmanaged.lib и объект D:\work\github\marshaling_example\ExampleWithFunctions\Debug\unmanaged.exp
-  Native.vcxproj -> D:\work\github\marshaling_example\ExampleWithFunctions\Debug\unmanaged.dll

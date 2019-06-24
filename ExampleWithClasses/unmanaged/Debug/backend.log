@@ -1,8 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (backend.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  api.cpp
-  PasswordGenerator.cpp
-d:\work\github\marshaling_example\examplewithclasses\unmanaged\passwordgenerator.cpp(5): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Summator.cpp
-  Создание кода...
-     Создается библиотека D:\work\github\marshaling_example\ExampleWithClasses\Debug\unmanaged.lib и объект D:\work\github\marshaling_example\ExampleWithClasses\Debug\unmanaged.exp
-  backend.vcxproj -> D:\work\github\marshaling_example\ExampleWithClasses\Debug\unmanaged.dll
